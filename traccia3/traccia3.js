@@ -1,8 +1,8 @@
-var annoCorrente=2025
-var annoDiNascita=1999
+var currentYear=2025
+var yearOfBirth=1999
 
-var anniCorrenti=annoCorrente-annoDiNascita
-var anniMancanti=100-anniCorrenti
+var yourYear=currentYear-yearOfBirth
+var 100Year=100-yourYear
 
-console.log('la tua età è di'+' '+ anniCorrenti +' '+'anni')
-console.log('ti mancano'+' '+ anniMancanti +' '+'anni ad averne 100')
+console.log('la tua età è di'+' '+ yourYear +' '+'anni')
+console.log('ti mancano'+' '+ 100Year +' '+'anni ad averne 100')
